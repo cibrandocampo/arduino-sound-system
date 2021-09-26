@@ -1,4 +1,4 @@
-# arduino-sound-system
+# Smart Arduino Sound System for Sony hcd-h150 / h500
 Sound system update thanks to Arduino
 
 Software for Arduino UNO that allows you to turn on and change the inputs of the Sony hcd-h150 / h500 sound equipment.
